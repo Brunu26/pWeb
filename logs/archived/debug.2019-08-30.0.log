@@ -1,0 +1,576 @@
+2019-08-30 19:40:12 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 19:40:12 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 19:40:12 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 19:40:12 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 19:40:12 - Retornando a região e o estado: regiao estado
+2019-08-30 19:40:12 - Retornando a região e o estado: regiao estado
+2019-08-30 19:40:12 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 19:40:12 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 19:40:12 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 19:40:12 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 19:40:12 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 19:40:12 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 19:40:12 - Retornando o id da franquia: 25
+2019-08-30 19:40:12 - Retornando o nome do usuário: gilberto
+2019-08-30 19:40:12 - Retornando a senha do usuário: senha
+2019-08-30 19:40:12 - Login do Usuário: usuario
+2019-08-30 19:40:12 - Verificando se o usuário é Adm: true
+2019-08-30 19:40:12 - conectando à base de dados
+2019-08-30 19:40:13 - conectando à base de dados
+2019-08-30 19:40:14 - conectando à base de dados
+2019-08-30 19:40:14 - conectando à base de dados
+2019-08-30 19:40:14 - conectando à base de dados
+2019-08-30 19:40:14 - conectando à base de dados
+2019-08-30 19:40:14 - conectando à base de dados
+2019-08-30 19:42:45 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 19:42:45 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 19:42:45 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 19:42:45 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 19:42:45 - Retornando a região e o estado: regiao estado
+2019-08-30 19:42:45 - Retornando a região e o estado: regiao estado
+2019-08-30 19:42:45 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 19:42:45 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 19:42:45 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 19:42:45 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 19:42:45 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 19:42:45 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 19:42:45 - Retornando o id da franquia: 25
+2019-08-30 19:42:45 - Retornando o nome do usuário: gilberto
+2019-08-30 19:42:45 - Retornando a senha do usuário: senha
+2019-08-30 19:42:45 - Login do Usuário: usuario
+2019-08-30 19:42:45 - Verificando se o usuário é Adm: true
+2019-08-30 19:42:45 - conectando à base de dados
+2019-08-30 19:42:46 - conectando à base de dados
+2019-08-30 19:42:46 - conectando à base de dados
+2019-08-30 19:42:46 - conectando à base de dados
+2019-08-30 19:42:46 - conectando à base de dados
+2019-08-30 19:42:46 - conectando à base de dados
+2019-08-30 19:42:46 - conectando à base de dados
+2019-08-30 19:47:39 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 19:47:39 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 19:47:39 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 19:47:39 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 19:47:39 - Retornando a região e o estado: regiao estado
+2019-08-30 19:47:39 - Retornando a região e o estado: regiao estado
+2019-08-30 19:47:39 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 19:47:39 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 19:47:39 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 19:47:39 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 19:47:39 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 19:47:39 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 19:47:39 - Retornando o id da franquia: 25
+2019-08-30 19:47:39 - Retornando o nome do usuário: gilberto
+2019-08-30 19:47:39 - Retornando a senha do usuário: senha
+2019-08-30 19:47:39 - Login do Usuário: usuario
+2019-08-30 19:47:39 - Verificando se o usuário é Adm: true
+2019-08-30 19:47:39 - conectando à base de dados
+2019-08-30 19:47:40 - conectando à base de dados
+2019-08-30 19:47:40 - criando franquia
+2019-08-30 19:47:40 - conectando à base de dados
+2019-08-30 19:47:40 - conectando à base de dados
+2019-08-30 19:47:40 - criando franquia
+2019-08-30 19:47:40 - conectando à base de dados
+2019-08-30 19:47:40 - conectando à base de dados
+2019-08-30 19:47:40 - conectando à base de dados
+2019-08-30 19:47:40 - criando franquia
+2019-08-30 20:09:20 - Retornando o Nome da Franquia: Numero 1
+2019-08-30 20:09:20 - Retornando o Nome da Franquia: Numero 2
+2019-08-30 20:09:20 - Verificando se a Franquia é matriz: true
+2019-08-30 20:09:20 - Verificando se a Franquia é matriz: false
+2019-08-30 20:09:20 - Retornando o Endereço da Franquia: model.bean.Endereco@1cb3ec38
+2019-08-30 20:09:20 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:09:20 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:09:20 - Retornando o Endereço da Franquia: model.bean.Endereco@403132fc
+2019-08-30 20:09:20 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:09:20 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:09:20 - Retornando o Endereço da Franquia: model.bean.Endereco@71c5b236
+2019-08-30 20:09:20 - Retornando a região e o estado: regiao estado
+2019-08-30 20:09:20 - Retornando a região e o estado: regiao estado
+2019-08-30 20:09:20 - Retornando o Endereço da Franquia: model.bean.Endereco@2cab9998
+2019-08-30 20:09:20 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:09:20 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:09:20 - Retornando o Endereço da Franquia: model.bean.Endereco@2f7a7219
+2019-08-30 20:09:20 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:09:20 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:09:20 - Retornando o Endereço da Franquia: model.bean.Endereco@669513d8
+2019-08-30 20:09:20 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:09:20 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:09:20 - Retornando o id da franquia: 25
+2019-08-30 20:09:20 - Retornando o nome do usuário: gilberto
+2019-08-30 20:09:20 - Retornando a senha do usuário: senha
+2019-08-30 20:09:20 - Login do Usuário: usuario
+2019-08-30 20:09:20 - Verificando se o usuário é Adm: true
+2019-08-30 20:09:20 - conectando à base de dados
+2019-08-30 20:09:21 - conectando à base de dados
+2019-08-30 20:09:21 - criando franquia
+2019-08-30 20:09:21 - Retornando o Endereço da Franquia: model.bean.Endereco@23df7fad
+2019-08-30 20:09:21 - Retornando o Nome da Franquia: nome
+2019-08-30 20:09:21 - Verificando se a Franquia é matriz: true
+2019-08-30 20:09:21 - conectando à base de dados
+2019-08-30 20:09:21 - conectando à base de dados
+2019-08-30 20:09:21 - criando franquia
+2019-08-30 20:09:21 - Retornando o Endereço da Franquia: model.bean.Endereco@474ce6b8
+2019-08-30 20:09:21 - Retornando o Nome da Franquia: nome
+2019-08-30 20:09:21 - Verificando se a Franquia é matriz: true
+2019-08-30 20:09:21 - conectando à base de dados
+2019-08-30 20:09:21 - conectando à base de dados
+2019-08-30 20:09:21 - conectando à base de dados
+2019-08-30 20:09:21 - criando franquia
+2019-08-30 20:09:21 - Retornando o Endereço da Franquia: model.bean.Endereco@46994f26
+2019-08-30 20:09:21 - Retornando o Nome da Franquia: 33
+2019-08-30 20:09:21 - Verificando se a Franquia é matriz: true
+2019-08-30 20:10:48 - Retornando o Nome da Franquia: Numero 1
+2019-08-30 20:10:48 - Retornando o Nome da Franquia: Numero 2
+2019-08-30 20:10:48 - Verificando se a Franquia é matriz: true
+2019-08-30 20:10:48 - Verificando se a Franquia é matriz: false
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:10:48 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:10:48 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:10:48 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:10:48 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:10:48 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:10:48 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:10:48 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:10:48 - Retornando a região e o estado: regiao estado
+2019-08-30 20:10:48 - Retornando a região e o estado: regiao estado
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:10:48 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:10:48 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:10:48 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:10:48 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:10:48 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:10:48 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:10:48 - Retornando o id da franquia: 25
+2019-08-30 20:10:48 - Retornando o nome do usuário: gilberto
+2019-08-30 20:10:48 - Retornando a senha do usuário: senha
+2019-08-30 20:10:48 - Login do Usuário: usuario
+2019-08-30 20:10:48 - Verificando se o usuário é Adm: true
+2019-08-30 20:10:48 - conectando à base de dados
+2019-08-30 20:10:49 - conectando à base de dados
+2019-08-30 20:10:49 - criando franquia
+2019-08-30 20:10:49 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:10:49 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:10:49 - Retornando o Nome da Franquia: nome
+2019-08-30 20:10:49 - Verificando se a Franquia é matriz: true
+2019-08-30 20:10:49 - conectando à base de dados
+2019-08-30 20:10:49 - conectando à base de dados
+2019-08-30 20:10:49 - criando franquia
+2019-08-30 20:10:49 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:10:49 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:10:49 - Retornando o Nome da Franquia: nome
+2019-08-30 20:10:49 - Verificando se a Franquia é matriz: true
+2019-08-30 20:10:49 - conectando à base de dados
+2019-08-30 20:10:49 - conectando à base de dados
+2019-08-30 20:10:49 - conectando à base de dados
+2019-08-30 20:10:49 - criando franquia
+2019-08-30 20:10:49 - Retornando o endereço completo: regiao estado cidade2 2 2.0 
+2019-08-30 20:10:49 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade2
+Rua: 2
+Numero: 2.0
+2019-08-30 20:10:49 - Retornando o Nome da Franquia: 33
+2019-08-30 20:10:49 - Verificando se a Franquia é matriz: true
+2019-08-30 20:26:36 - Retornando o Nome da Franquia: Numero 1
+2019-08-30 20:26:36 - Retornando o Nome da Franquia: Numero 2
+2019-08-30 20:26:36 - Verificando se a Franquia é matriz: true
+2019-08-30 20:26:36 - Verificando se a Franquia é matriz: false
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:26:36 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:26:36 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:26:36 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:26:36 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:26:36 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:26:36 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:26:36 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:26:36 - Retornando a região e o estado: regiao estado
+2019-08-30 20:26:36 - Retornando a região e o estado: regiao estado
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:26:36 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:26:36 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:26:36 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:26:36 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:26:36 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:26:36 - Retornando o id da franquia: 25
+2019-08-30 20:26:36 - Retornando o nome do usuário: gilberto
+2019-08-30 20:26:36 - Retornando a senha do usuário: senha
+2019-08-30 20:26:36 - Login do Usuário: usuario
+2019-08-30 20:26:36 - Verificando se o usuário é Adm: true
+2019-08-30 20:26:36 - conectando à base de dados
+2019-08-30 20:26:36 - conectando à base de dados
+2019-08-30 20:26:36 - criando franquia
+2019-08-30 20:26:36 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:26:36 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:26:36 - Retornando o Nome da Franquia: nome
+2019-08-30 20:26:36 - Verificando se a Franquia é matriz: true
+2019-08-30 20:26:37 - conectando à base de dados
+2019-08-30 20:26:37 - conectando à base de dados
+2019-08-30 20:26:37 - criando franquia
+2019-08-30 20:26:37 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:26:37 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:26:37 - Retornando o Nome da Franquia: nome
+2019-08-30 20:26:37 - Verificando se a Franquia é matriz: true
+2019-08-30 20:26:37 - conectando à base de dados
+2019-08-30 20:26:37 - conectando à base de dados
+2019-08-30 20:26:37 - conectando à base de dados
+2019-08-30 20:26:37 - criando franquia
+2019-08-30 20:26:37 - Retornando o endereço completo: regiao estado cidade2 2 2.0 
+2019-08-30 20:26:37 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade2
+Rua: 2
+Numero: 2.0
+2019-08-30 20:26:37 - Retornando o Nome da Franquia: 33
+2019-08-30 20:26:37 - Verificando se a Franquia é matriz: true
+2019-08-30 20:28:20 - Retornando o Nome da Franquia: Numero 1
+2019-08-30 20:28:20 - Retornando o Nome da Franquia: Numero 2
+2019-08-30 20:28:20 - Verificando se a Franquia é matriz: true
+2019-08-30 20:28:20 - Verificando se a Franquia é matriz: false
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:28:20 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:28:20 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:28:20 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:28:20 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:28:20 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:28:20 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:28:20 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:28:20 - Retornando a região e o estado: regiao estado
+2019-08-30 20:28:20 - Retornando a região e o estado: regiao estado
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:28:20 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:28:20 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:28:20 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:28:20 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:28:20 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:28:20 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:28:20 - Retornando o id da franquia: 25
+2019-08-30 20:28:20 - Retornando o nome do usuário: gilberto
+2019-08-30 20:28:20 - Retornando a senha do usuário: senha
+2019-08-30 20:28:20 - Login do Usuário: usuario
+2019-08-30 20:28:20 - Verificando se o usuário é Adm: true
+2019-08-30 20:28:20 - conectando à base de dados
+2019-08-30 20:28:21 - conectando à base de dados
+2019-08-30 20:28:21 - criando franquia
+2019-08-30 20:28:21 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:28:21 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:28:21 - Retornando o Nome da Franquia: nome
+2019-08-30 20:28:21 - Verificando se a Franquia é matriz: true
+2019-08-30 20:28:21 - conectando à base de dados
+2019-08-30 20:28:21 - conectando à base de dados
+2019-08-30 20:28:21 - criando franquia
+2019-08-30 20:28:21 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:28:21 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:28:21 - Retornando o Nome da Franquia: nome
+2019-08-30 20:28:21 - Verificando se a Franquia é matriz: true
+2019-08-30 20:28:21 - conectando à base de dados
+2019-08-30 20:28:21 - conectando à base de dados
+2019-08-30 20:28:21 - conectando à base de dados
+2019-08-30 20:28:21 - criando franquia
+2019-08-30 20:28:21 - Retornando o endereço completo: regiao estado cidade2 2 2.0 
+2019-08-30 20:28:21 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade2
+Rua: 2
+Numero: 2.0
+2019-08-30 20:28:21 - Retornando o Nome da Franquia: 33
+2019-08-30 20:28:21 - Verificando se a Franquia é matriz: true
+2019-08-30 20:29:58 - Retornando o Nome da Franquia: Numero 1
+2019-08-30 20:29:58 - Retornando o Nome da Franquia: Numero 2
+2019-08-30 20:29:58 - Verificando se a Franquia é matriz: true
+2019-08-30 20:29:58 - Verificando se a Franquia é matriz: false
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:29:58 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:29:58 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:29:58 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:29:58 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:29:58 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:29:58 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:29:58 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:29:58 - Retornando a região e o estado: regiao estado
+2019-08-30 20:29:58 - Retornando a região e o estado: regiao estado
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:29:58 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:29:58 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:29:58 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:29:58 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:29:58 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:29:58 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:29:58 - Retornando o id da franquia: 25
+2019-08-30 20:29:58 - Retornando o nome do usuário: gilberto
+2019-08-30 20:29:58 - Retornando a senha do usuário: senha
+2019-08-30 20:29:58 - Login do Usuário: usuario
+2019-08-30 20:29:58 - Verificando se o usuário é Adm: true
+2019-08-30 20:29:58 - conectando à base de dados
+2019-08-30 20:29:59 - conectando à base de dados
+2019-08-30 20:29:59 - criando franquia
+2019-08-30 20:29:59 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:29:59 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:29:59 - Retornando o Nome da Franquia: nome
+2019-08-30 20:29:59 - Verificando se a Franquia é matriz: true
+2019-08-30 20:29:59 - conectando à base de dados
+2019-08-30 20:29:59 - conectando à base de dados
+2019-08-30 20:29:59 - criando franquia
+2019-08-30 20:29:59 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:29:59 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:29:59 - Retornando o Nome da Franquia: nome
+2019-08-30 20:29:59 - Verificando se a Franquia é matriz: true
+2019-08-30 20:29:59 - conectando à base de dados
+2019-08-30 20:29:59 - conectando à base de dados
+2019-08-30 20:29:59 - conectando à base de dados
+2019-08-30 20:29:59 - criando franquia
+2019-08-30 20:29:59 - Retornando o endereço completo: regiao estado cidade2 2 2.0 
+2019-08-30 20:29:59 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade2
+Rua: 2
+Numero: 2.0
+2019-08-30 20:29:59 - Retornando o Nome da Franquia: 33
+2019-08-30 20:29:59 - Verificando se a Franquia é matriz: true
+2019-08-30 20:30:36 - Retornando o Nome da Franquia: Numero 1
+2019-08-30 20:30:36 - Retornando o Nome da Franquia: Numero 2
+2019-08-30 20:30:36 - Verificando se a Franquia é matriz: true
+2019-08-30 20:30:36 - Verificando se a Franquia é matriz: false
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:30:36 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:30:36 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:30:36 - Retornando a cidade, rua e o numero: cidade rua 5.0
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:30:36 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:30:36 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:30:36 - Retornando a cidade, rua e o numero: cidade 2 rua 2 10.0
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:30:36 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:30:36 - Retornando a região e o estado: regiao estado
+2019-08-30 20:30:36 - Retornando a região e o estado: regiao estado
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:30:36 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:30:36 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:30:36 - Retornando a região e o estado: regiao 2 estado 2
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:30:36 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: rua
+Numero: 5.0
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao estado cidade rua 5.0 
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:30:36 - Retornando o Endereço da Franquia: Região: regiao 2
+Estado: estado 2
+Cidade: cidade 2
+Rua: rua 2
+Numero: 10.0
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:30:36 - Retornando o endereço completo: regiao 2 estado 2 cidade 2 rua 2 10.0 
+2019-08-30 20:30:36 - Retornando o id da franquia: 25
+2019-08-30 20:30:37 - Retornando o nome do usuário: gilberto
+2019-08-30 20:30:37 - Retornando a senha do usuário: senha
+2019-08-30 20:30:37 - Login do Usuário: usuario
+2019-08-30 20:30:37 - Verificando se o usuário é Adm: true
+2019-08-30 20:30:37 - conectando à base de dados
+2019-08-30 20:30:37 - conectando à base de dados
+2019-08-30 20:30:37 - criando franquia
+2019-08-30 20:30:37 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:30:37 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:30:37 - Retornando o Nome da Franquia: nome
+2019-08-30 20:30:37 - Verificando se a Franquia é matriz: true
+2019-08-30 20:30:37 - conectando à base de dados
+2019-08-30 20:30:37 - conectando à base de dados
+2019-08-30 20:30:37 - criando franquia
+2019-08-30 20:30:37 - Retornando o endereço completo: regiao estado cidade 2 2.0 
+2019-08-30 20:30:37 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade
+Rua: 2
+Numero: 2.0
+2019-08-30 20:30:37 - Retornando o Nome da Franquia: nome
+2019-08-30 20:30:37 - Verificando se a Franquia é matriz: true
+2019-08-30 20:30:37 - conectando à base de dados
+2019-08-30 20:30:37 - conectando à base de dados
+2019-08-30 20:30:37 - conectando à base de dados
+2019-08-30 20:30:37 - criando franquia
+2019-08-30 20:30:37 - Retornando o endereço completo: regiao estado cidade2 2 2.0 
+2019-08-30 20:30:37 - Retornando o Endereço da Franquia: Região: regiao
+Estado: estado
+Cidade: cidade2
+Rua: 2
+Numero: 2.0
+2019-08-30 20:30:37 - Retornando o Nome da Franquia: 33
+2019-08-30 20:30:37 - Verificando se a Franquia é matriz: true
